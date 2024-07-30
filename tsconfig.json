@@ -1,8 +1,10 @@
 {
-    "compilerOptions": {
-        "target": "es5",
-        "module": "commonjs",
-        "rootDir": "./",
-        "outDir": "./"
-    }
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "rootDir": "/home/machado/Documents/projects/buyer_list",
+    "outDir": "/home/machado/Documents/projects/buyer_list"
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
 }
